@@ -1,0 +1,37 @@
+<gameSettings>
+	<boardSize>
+		<columns>4</columns>
+		<rows>4</rows>
+	</boardSize>
+	
+	<startingPosition>
+		<x>0</x>	
+		<y>0</y>
+	</startingPosition>
+	<direction>North</direction>
+	<exitPoint>
+		<x>3</x>
+		<y>3</y>
+	</exitPoint>	
+	<mine>
+		<x>1</x>
+		<y>1</y>
+	</mine>
+	<mine>
+		<x>2</x>
+		<y>1</y>
+	</mine>
+	<mine>
+		<x>1</x>
+		<y>2</y>
+	</mine>	
+	<mine>
+		<x>2</x>
+		<y>2</y>
+	</mine>	
+	<!--This mine will cause the game-settings file to be invalid because its outside the game board.-->
+	<!-- <mine>  -->
+		<!-- <x>4</x> -->
+		<!-- <y>1</y> -->
+	<!-- </mine>	 -->
+</gameSettings>

@@ -1,0 +1,8 @@
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\bin\Debug\SaveMyTurtle.Execute.exe.config
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\bin\Debug\SaveMyTurtle.Execute.exe
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\bin\Debug\SaveMyTurtle.Execute.pdb
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\bin\Debug\Newtonsoft.Json.dll
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\bin\Debug\Newtonsoft.Json.xml
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\obj\Debug\SaveMyTurtle.Execute.csprojResolveAssemblyReference.cache
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\obj\Debug\SaveMyTurtle.Execute.exe
+E:\Development\SaveMyTurtle\SaveMyTurtle.Execute\SaveMyTurtle.Execute\obj\Debug\SaveMyTurtle.Execute.pdb

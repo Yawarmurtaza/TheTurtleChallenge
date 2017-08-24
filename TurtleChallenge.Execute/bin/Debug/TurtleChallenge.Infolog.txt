@@ -1,0 +1,1147 @@
+2017-08-21 21:56:45,333 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:56:45,348 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 21:56:45,348 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:56:45,405 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 21:56:45,467 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 21:57:25,084 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:25,097 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 21:57:25,097 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:25,129 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 21:57:25,337 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:25,337 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 21:57:25,337 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:50,537 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:50,550 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 21:57:50,550 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:50,583 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 21:57:50,719 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 21:57:50,719 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 21:57:50,719 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:07,835 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:07,851 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 22:00:07,851 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:07,891 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 22:00:08,050 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:08,050 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 22:00:08,050 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:13,385 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:13,401 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 22:00:13,401 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:13,439 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 22:00:13,598 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 22:00:13,600 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 22:00:13,601 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in ganger
+2017-08-21 22:00:13,601 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:13,601 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 22:00:13,601 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:19,368 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:19,381 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 22:00:19,381 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:19,411 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in ganger
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 22:00:19,546 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:38,636 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:38,648 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 22:00:38,648 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:38,679 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 22:00:38,943 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-21 22:00:38,943 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-21 22:00:38,944 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Still in ganger
+2017-08-21 22:00:38,944 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:38,944 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 22:00:38,944 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:55,099 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:55,113 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 22:00:55,113 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:55,144 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 22:00:55,326 [1] INFO TurtleChallenge.Execute.Program - Game board has invalid rows / columns.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - Start location is not valid for the game board.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - Exit location is not valid for the game board.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - A mine is on the exit location.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 22:00:55,327 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:11:16,639 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:11:16,988 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:11:17,225 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:11:17,701 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:11:24,380 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 23:11:33,250 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:11:33,262 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:11:33,262 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:11:33,292 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:11:33,354 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 23:12:51,050 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:12:51,062 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:12:51,062 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:12:51,091 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:12:51,264 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 23:12:51,264 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 23:12:51,265 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-21 23:12:51,265 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:12:51,265 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:12:51,265 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:27:17,965 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:27:17,978 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:27:17,978 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:27:18,008 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:27:18,148 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-21 23:29:34,193 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:29:34,205 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:29:34,205 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:29:34,235 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:29:34,376 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-21 23:29:50,338 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:29:50,351 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:29:50,351 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:29:50,393 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:29:50,567 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-21 23:35:52,153 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:35:52,170 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:35:52,170 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:35:52,256 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:36:47,455 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:36:47,489 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:36:47,489 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:36:47,616 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:36:58,789 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:37:02,032 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:37:02,046 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:37:02,046 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:37:02,079 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:37:02,234 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 23:37:02,234 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 23:37:02,235 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-21 23:37:02,235 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:37:02,235 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:37:02,235 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:40:44,507 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:40:44,522 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:40:44,522 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:40:44,555 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:40:44,713 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:33,462 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:33,476 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:42:33,476 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:33,525 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:42:33,756 [1] INFO TurtleChallenge.Execute.Program - Game board has invalid rows / columns.
+2017-08-21 23:42:33,756 [1] INFO TurtleChallenge.Execute.Program - Starting point is not valid for the game board.
+2017-08-21 23:42:33,756 [1] INFO TurtleChallenge.Execute.Program - Exit point is not valid for the game board.
+2017-08-21 23:42:33,756 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-21 23:42:33,757 [1] INFO TurtleChallenge.Execute.Program - A mine is on the exit location.
+2017-08-21 23:42:33,757 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:33,757 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:42:33,757 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:45,061 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:45,073 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-21 23:42:45,073 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:45,106 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Still in danger
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-21 23:42:45,387 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 08:20:31,317 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 08:20:31,333 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 08:20:31,333 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 08:20:31,408 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 08:20:31,960 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-22 08:20:31,961 [1] INFO TurtleChallenge.Execute.Program - Hit South
+2017-08-22 08:20:31,961 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Still in danger
+2017-08-22 08:20:31,961 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 08:20:31,961 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 08:20:31,961 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:26:56,506 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:26:56,552 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:26:56,552 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:26:56,629 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - HitSouth
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - HitSouth
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Still in danger
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:26:57,294 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:28:32,068 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:28:32,087 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:28:32,087 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:28:32,139 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - A mine is on the start location.
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - A mine is on the exit location.
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:28:32,393 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:32:24,286 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:32:24,304 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:32:24,304 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:32:24,350 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:32:24,612 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:32:24,612 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:32:24,612 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:32:24,612 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:34:09,356 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:34:09,374 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:34:09,374 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:34:09,421 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:34:09,698 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:34:09,698 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:34:09,698 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:34:09,698 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:34:09,698 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:35:43,786 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:35:43,805 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:35:43,805 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:35:43,852 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Still in danger
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:35:44,163 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:44,526 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:44,544 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:36:44,544 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:44,588 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Mine hit!
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:36:44,847 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:59,194 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:59,212 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:36:59,212 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:59,262 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:36:59,563 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:36:59,564 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:36:59,564 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Still in danger
+2017-08-22 12:36:59,564 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:36:59,564 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:36:59,564 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:39:55,160 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:39:55,177 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:39:55,177 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:39:55,255 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:39:55,586 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success
+2017-08-22 12:39:55,587 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:39:55,587 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Still in danger
+2017-08-22 12:39:55,587 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:39:55,587 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:39:55,587 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:02,100 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:02,117 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:40:02,117 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:02,161 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:40:02,657 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Mine hit!
+2017-08-22 12:40:02,658 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-22 12:40:02,658 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-22 12:40:02,658 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:02,658 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:40:02,658 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:15,588 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:15,605 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:40:15,605 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:15,650 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:40:16,003 [1] INFO TurtleChallenge.Execute.Program - sequence 1 - success: Success
+2017-08-22 12:40:16,003 [1] INFO TurtleChallenge.Execute.Program - sequence 2 - 1,2 mine hit: Mine hit!
+2017-08-22 12:40:16,004 [1] INFO TurtleChallenge.Execute.Program - sequence 3 - living in the denger: Still in danger
+2017-08-22 12:40:16,004 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:16,004 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:40:16,004 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:22,301 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:22,318 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:40:22,318 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:22,363 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:40:22,865 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Still in danger
+2017-08-22 12:40:22,866 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Success
+2017-08-22 12:40:22,866 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Still in danger
+2017-08-22 12:40:22,866 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:40:22,866 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:40:22,866 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:43:05,525 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:43:05,543 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 12:43:05,543 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:43:05,589 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - HitNorth
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - Sequence 2 - with extra moves after a mine hit: Mine hit!
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - Sequence 3 - still in danger: Still in danger
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 12:43:05,858 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:07:50,931 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:07:50,959 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:07:50,959 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:07:51,014 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:07:51,320 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-22 16:07:51,320 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:07:51,320 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:07:51,320 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:08:29,773 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:08:29,791 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:08:29,791 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:08:29,871 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:08:30,143 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-22 16:08:30,143 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:08:30,143 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:08:30,143 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:09:34,465 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:09:34,924 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:09:35,419 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:09:36,053 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:12:17,437 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:12:19,966 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:12:19,966 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:12:20,177 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:12:41,260 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-22 16:12:41,260 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:12:41,260 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:12:41,260 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:12,897 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:12,914 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:18:12,914 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:12,991 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:18:13,284 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-22 16:18:13,284 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:13,284 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:18:13,284 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:15,351 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:15,368 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:18:15,368 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:15,416 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:18:15,735 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-22 16:18:15,735 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:15,735 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:18:15,735 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:18,275 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:18,292 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 16:18:18,292 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:18,337 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 16:18:18,592 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-22 16:18:18,592 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 16:18:18,592 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 16:18:18,592 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 17:42:48,144 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 17:42:48,156 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-22 17:42:48,156 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 17:42:48,200 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-22 17:42:48,433 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-22 17:42:48,433 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-22 17:42:48,433 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-22 17:42:48,434 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:09:09,589 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:09:09,670 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:09:09,670 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:09:09,858 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:09:11,252 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 31
+2017-08-23 23:12:46,102 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:12:46,115 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:12:46,115 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:12:46,148 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:12:47,888 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-23 23:12:47,888 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:12:47,888 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-23 23:12:47,888 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:25:57,232 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:25:57,244 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:25:57,244 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:25:57,273 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:25:57,404 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-23 23:25:57,407 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-23 23:25:57,412 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-23 23:25:57,412 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:25:57,412 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-23 23:25:57,412 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:10,403 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:10,414 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:29:10,414 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:10,444 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:29:10,576 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-23 23:29:10,580 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-23 23:29:10,583 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-23 23:29:10,584 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-23 23:29:10,584 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:10,584 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-23 23:29:10,584 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:37,282 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:37,293 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:29:37,293 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:37,323 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:29:37,459 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-23 23:29:37,461 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-23 23:29:37,465 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-23 23:29:37,465 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-23 23:29:37,465 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:29:37,465 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-23 23:29:37,465 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:30:24,037 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:30:24,049 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:30:24,049 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:30:24,080 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:30:24,211 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-23 23:30:24,213 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-23 23:30:24,217 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-23 23:30:24,217 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-23 23:30:24,217 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:30:24,217 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-23 23:30:24,217 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:31:53,093 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:31:53,107 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:31:53,107 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:31:53,180 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-23 23:34:12,645 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:34:12,662 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-23 23:34:12,662 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-23 23:34:12,727 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:26:40,763 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:26:40,777 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:26:40,777 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:26:40,847 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:26:41,025 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.InvalidOperationException: There is an error in XML document (12, 3). ---> System.InvalidOperationException: Instance validation error: 'north' is not a valid value for Direction.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read4_Direction(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read5_GameSettings(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read6_gameSettings()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at TurtleChallenge.DataAccess.XmlDataProvider.GetGameSettings(String filePath) in F:\TurtleChallenge\TurtleChallenge.DataAccess\XmlDataProvider.cs:line 31
+   at TurtleChallenge.Business.GameDataManager.GetGameSettings(String filePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameDataManager.cs:line 28
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 32
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 33
+2017-08-24 13:30:28,906 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:30:28,922 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:30:28,922 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:30:28,974 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:30:29,125 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 13:30:29,125 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:30:29,125 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:30:29,125 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:01,318 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:01,332 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:32:01,332 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:01,367 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Still in danger!
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:32:01,522 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:43,951 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:43,964 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:32:43,964 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:43,998 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:32:44,149 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:32:44,150 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:33:30,921 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:33:30,935 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:33:30,935 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:33:30,974 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:33:31,133 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 13:33:31,133 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-24 13:33:31,133 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to mine hit: Mine hit!
+2017-08-24 13:33:31,134 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:33:31,134 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:33:31,134 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:33:31,134 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:34:33,912 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:34:33,926 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:34:33,926 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:34:33,992 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:41:26,053 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:26,069 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:41:26,069 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:26,104 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:41:26,255 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Success!
+2017-08-24 13:41:26,255 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:26,255 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:41:26,255 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:41,203 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:41,217 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:41:41,217 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:41:41,278 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:42:33,305 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:42:33,318 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:42:33,318 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:42:33,382 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:43:33,195 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:43:33,195 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:33,195 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:43:33,195 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:36,210 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:36,225 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:43:36,225 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:36,261 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:43:36,424 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:43:36,424 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:36,424 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:43:36,424 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:57,011 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:57,025 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:43:57,025 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:57,057 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:43:57,220 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Still in danger!
+2017-08-24 13:43:57,220 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:43:57,220 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:43:57,220 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:44:07,351 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:44:07,365 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:44:07,365 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:44:07,398 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:44:07,551 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Success!
+2017-08-24 13:44:07,551 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:44:07,551 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:44:07,551 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:48:14,165 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:48:14,177 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:48:14,177 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:48:14,217 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:48:14,383 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Success!
+2017-08-24 13:48:14,383 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:48:14,383 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:48:14,383 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:52:29,107 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:52:29,123 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 13:52:29,123 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:52:29,162 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 13:52:29,329 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - aqeels sequence to mine hit: Mine hit!
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Success!
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 13:52:29,330 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:04:23,354 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:04:23,367 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:04:23,367 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:04:23,395 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:04:23,533 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success: Success!
+2017-08-24 14:04:23,534 [1] INFO TurtleChallenge.Execute.Program - Aqeel's sequence to success 2: Success!
+2017-08-24 14:04:23,534 [1] INFO TurtleChallenge.Execute.Program - aqeels sequence to mine hit: Mine hit!
+2017-08-24 14:04:23,535 [1] INFO TurtleChallenge.Execute.Program - Aqeels sequence to the boundry hit: Success!
+2017-08-24 14:04:23,535 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:04:23,535 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:04:23,535 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:01,339 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:01,350 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:05:01,350 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:01,379 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:05:01,519 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:41,291 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:41,303 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:05:41,303 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:41,331 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:05:41,465 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:05:41,465 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:05:41,466 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:12,675 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:12,688 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:20:12,688 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:12,731 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:20:12,875 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:20:12,876 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:49,036 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:49,048 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:20:49,048 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:49,080 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:20:49,312 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Mine hit!
+2017-08-24 14:20:49,312 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:20:49,312 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:20:49,312 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:21:09,585 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:21:09,597 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:21:09,597 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:21:09,626 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:21:09,826 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Mine hit!
+2017-08-24 14:21:09,826 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:21:09,826 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:21:09,826 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:24:04,617 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:24:04,629 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:24:04,629 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:24:04,660 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:24:04,849 [1] INFO TurtleChallenge.Execute.Program - Game board has invalid rows / columns.
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - Starting point is not valid for the game board.
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - Exit point is not valid for the game board.
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:24:04,850 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:14,968 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:14,980 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:26:14,980 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:15,012 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:26:15,194 [1] INFO TurtleChallenge.Execute.Program - Exit point is not valid for the game board.
+2017-08-24 14:26:15,194 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:15,194 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:26:15,194 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:45,728 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:45,739 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:26:45,739 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:45,769 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:26:45,953 [1] INFO TurtleChallenge.Execute.Program - Exit point is not valid for the game board.
+2017-08-24 14:26:45,953 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:45,953 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:26:45,953 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:53,057 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:53,069 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:26:53,069 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:53,099 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:26:53,282 [1] INFO TurtleChallenge.Execute.Program - Exit point is not valid for the game board.
+2017-08-24 14:26:53,282 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:26:53,282 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:26:53,282 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:27:17,231 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:27:17,242 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:27:17,243 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:27:17,272 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:27:17,468 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:27:17,468 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:27:17,468 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:27:17,468 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:30:04,351 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:30:04,362 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:30:04,362 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:30:04,394 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:30:04,595 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:30:04,595 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:30:04,595 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:30:04,595 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:31:19,492 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:31:19,898 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:31:20,227 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:31:22,186 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:37:21,002 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:37:21,014 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:37:21,014 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:37:21,045 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:37:21,260 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:37:21,260 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:37:21,260 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:37:21,260 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:38:39,612 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:38:39,625 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:38:39,625 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:38:39,686 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:41:36,196 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:36,213 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:41:36,213 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:36,252 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:41:36,467 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:41:36,467 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:36,467 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:41:36,467 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:42,774 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:42,788 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:41:42,788 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:41:42,850 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:44:05,934 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:44:05,952 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:44:05,952 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:44:06,029 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:45:02,143 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:02,155 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:45:02,155 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:02,188 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:45:02,424 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:45:02,424 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:02,424 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:45:02,424 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:26,821 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:26,836 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:45:26,836 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:26,866 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:45:27,067 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 14:45:27,067 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:45:27,067 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:45:27,067 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:05,447 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:05,460 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:46:05,460 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:05,496 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:46:05,653 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:42,411 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:42,425 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:46:42,425 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:42,458 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:46:42,612 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:46:42,612 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:46:42,612 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:46:42,613 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:46:42,613 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:46:42,613 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:46:42,613 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:46:42,613 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:26,943 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:26,956 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:47:26,956 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:26,988 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:47:27,141 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:47:27,141 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:47:27,141 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:47:27,142 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:47:27,142 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:47:27,142 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:27,142 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:47:27,142 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:34,340 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:34,354 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:47:34,354 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:34,389 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:47:34,545 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:47:34,545 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:47:34,546 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:43,789 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:43,801 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:47:43,801 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:43,833 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:47:43,982 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:47:43,983 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:51,271 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:51,287 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:47:51,287 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:47:51,346 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:48:37,891 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:48:37,907 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:48:37,907 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:48:37,969 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:49:32,991 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:49:33,012 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:49:33,012 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:49:33,110 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:50:21,027 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:50:21,040 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:50:21,040 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:50:21,106 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:51:14,468 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:14,483 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:51:14,483 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:14,544 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:51:16,289 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 14:51:16,290 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:16,290 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:51:16,290 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:20,045 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:20,060 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:51:20,061 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:51:20,123 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:52:30,212 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:52:30,227 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:52:30,227 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:52:30,289 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:53:30,955 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:53:30,970 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:53:30,971 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:53:31,030 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:54:29,242 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:29,255 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:54:29,255 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:29,283 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:54:29,417 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:41,456 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:41,469 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:54:41,469 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:54:41,531 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:55:04,304 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:04,318 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:55:04,318 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:04,355 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:55:04,495 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 14:55:04,495 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:04,495 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:55:04,495 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:19,859 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:19,870 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 14:55:19,870 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:19,901 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 14:55:20,019 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 14:55:20,019 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 14:55:20,019 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 14:55:20,019 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:28,494 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:28,507 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:07:28,507 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:28,537 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:07:28,589 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:28,677 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:07:28,678 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:45,086 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:45,098 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:07:45,098 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:45,127 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:07:45,177 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:07:45,250 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 15:07:45,250 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:07:45,250 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:07:45,250 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:26,251 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:26,263 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:09:26,263 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:26,293 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:09:26,348 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:09:26,422 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 15:09:26,422 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:26,422 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:09:26,422 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:35,105 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:35,116 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:09:35,116 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:35,145 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:09:35,196 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:09:35,266 [1] INFO TurtleChallenge.Execute.Program - A mine is on the start location.
+2017-08-24 15:09:35,266 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:35,266 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:09:35,266 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:55,788 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:55,800 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:09:55,800 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:55,830 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:09:55,879 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:09:55,963 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:09:55,964 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:09:55,966 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:09:55,969 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:09:55,970 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:09:55,970 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:09:55,970 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:09:55,970 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:12:49,197 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:12:49,210 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:12:49,210 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:12:49,239 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:12:49,290 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.xml and MOVES.xml files.
+2017-08-24 15:12:49,364 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-24 15:12:49,364 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:12:49,364 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:12:49,364 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:23:17,631 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:23:17,649 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:23:17,649 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:23:17,740 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:23:17,810 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:24:02,387 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:24:02,407 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:24:02,407 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:24:02,493 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:24:02,563 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:26:26,370 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:26,388 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:26:26,388 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:26,491 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:26:26,572 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:26:38,472 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-24 15:26:38,472 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:38,472 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:26:38,472 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:40,433 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:40,445 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:26:40,445 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:40,481 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:26:40,543 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:26:40,626 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-24 15:26:40,626 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:26:40,626 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:26:40,626 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:31,964 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:31,981 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:29:31,981 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:32,034 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:29:32,094 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:29:32,170 [1] INFO TurtleChallenge.Execute.Program - Start and Exit locations can not be the same.
+2017-08-24 15:29:32,170 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:32,170 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:29:32,170 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:45,060 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:45,073 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:29:45,073 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:45,110 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:29:45,174 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:29:45,270 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:29:45,270 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:29:45,271 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:51,958 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:51,970 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:29:51,970 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:52,000 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:29:52,050 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:29:52,135 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:30:00,782 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:30:00,795 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:30:00,795 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:30:00,823 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:30:00,875 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:30:00,962 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:30:00,962 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:30:00,963 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:50:51,832 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:50:51,844 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:50:51,844 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:50:51,885 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:50:51,934 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:50:52,030 [1] INFO TurtleChallenge.Execute.Program - A mine is on the start location.
+2017-08-24 15:50:52,030 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:50:52,030 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:50:52,030 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:08,525 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:08,537 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:54:08,537 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:08,567 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:54:08,618 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:54:08,690 [1] INFO TurtleChallenge.Execute.Program - A mine is on the start location.
+2017-08-24 15:54:08,690 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:08,690 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:54:08,690 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:19,654 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:19,667 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:54:19,667 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:19,697 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:54:19,749 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:54:19,837 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:54:19,837 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:54:19,837 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:54:19,837 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:54:19,837 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:54:19,838 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:19,838 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:54:19,838 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:49,000 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:49,013 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:54:49,013 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:49,042 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:54:49,094 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:54:49,184 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:54:49,185 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:54:49,188 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:54:49,189 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:54:49,190 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:54:49,190 [1] INFO TurtleChallenge.Execute.Program - Sequence 6: Still in danger!
+2017-08-24 15:54:49,190 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:54:49,190 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:54:49,191 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:55:56,812 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:55:56,825 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:55:56,825 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:55:56,853 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:55:56,907 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:55:56,995 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:55:56,995 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:55:56,996 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:55:56,996 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:55:56,997 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:55:56,998 [1] INFO TurtleChallenge.Execute.Program - Sequence 6: Still in danger!
+2017-08-24 15:55:56,998 [1] INFO TurtleChallenge.Execute.Program - Sequence 7: Still in danger!
+2017-08-24 15:55:56,998 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:55:56,998 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:55:56,998 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:56:17,794 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:56:17,807 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 15:56:17,807 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:56:17,835 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 15:56:17,885 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 15:56:17,970 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 15:56:17,972 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 15:56:17,975 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 15:56:17,977 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 15:56:17,977 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 15:56:17,978 [1] INFO TurtleChallenge.Execute.Program - Sequence 6: Still in danger!
+2017-08-24 15:56:17,979 [1] INFO TurtleChallenge.Execute.Program - Sequence 7: Still in danger!
+2017-08-24 15:56:17,980 [1] INFO TurtleChallenge.Execute.Program - Sequence 8: Still in danger!
+2017-08-24 15:56:17,980 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 15:56:17,980 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 15:56:17,980 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:46,808 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:46,821 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:22:46,821 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:46,862 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:22:46,914 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 16:22:47,027 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 16:22:47,028 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 16:22:47,032 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 16:22:47,033 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 16:22:47,034 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 16:22:47,035 [1] INFO TurtleChallenge.Execute.Program - Sequence 6: Still in danger!
+2017-08-24 16:22:47,035 [1] INFO TurtleChallenge.Execute.Program - Sequence 7: Still in danger!
+2017-08-24 16:22:47,036 [1] INFO TurtleChallenge.Execute.Program - Sequence 8: Still in danger!
+2017-08-24 16:22:47,036 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:47,036 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:22:47,036 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:57,596 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:57,609 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:22:57,609 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:57,639 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:22:57,691 [1] INFO TurtleChallenge.Execute.Program - Starting the game with game-settings.xml and moves.xml files.
+2017-08-24 16:22:57,779 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 16:22:57,780 [1] INFO TurtleChallenge.Execute.Program - Sequence 2: Success!
+2017-08-24 16:22:57,783 [1] INFO TurtleChallenge.Execute.Program - Sequence 3: Mine hit!
+2017-08-24 16:22:57,784 [1] INFO TurtleChallenge.Execute.Program - Sequence 4: Success!
+2017-08-24 16:22:57,784 [1] INFO TurtleChallenge.Execute.Program - Sequence 5: Still in danger!
+2017-08-24 16:22:57,785 [1] INFO TurtleChallenge.Execute.Program - Sequence 6: Still in danger!
+2017-08-24 16:22:57,785 [1] INFO TurtleChallenge.Execute.Program - Sequence 7: Still in danger!
+2017-08-24 16:22:57,787 [1] INFO TurtleChallenge.Execute.Program - Sequence 8: Still in danger!
+2017-08-24 16:22:57,787 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:22:57,787 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:22:57,787 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:23:29,108 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:23:29,120 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:23:29,120 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:23:29,149 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:23:29,202 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:23:29,338 [1] INFO TurtleChallenge.Execute.Program - Mine(s) are outside the game board.
+2017-08-24 16:23:29,338 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:23:29,338 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:23:29,338 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:24:07,002 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:24:07,015 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:24:07,015 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:24:07,044 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:24:07,094 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:24:07,248 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Mine hit!
+2017-08-24 16:24:07,248 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:24:07,248 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:24:07,248 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:01,762 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:01,774 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:26:01,774 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:01,804 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:26:01,854 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:26:02,001 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Still in danger!
+2017-08-24 16:26:02,001 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:02,001 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:26:02,001 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:29,932 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:29,943 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:26:29,943 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:29,973 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:26:30,021 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:26:30,168 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Still in danger!
+2017-08-24 16:26:30,168 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:30,168 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:26:30,168 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:48,223 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:48,235 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:26:48,236 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:48,265 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:26:48,318 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:26:48,469 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Still in danger!
+2017-08-24 16:26:48,470 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:48,470 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:26:48,470 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:57,785 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:57,797 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:26:57,797 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:57,827 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:26:57,878 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:26:58,027 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 16:26:58,027 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:26:58,027 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:26:58,027 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:27:08,745 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:27:08,757 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game launched.
+2017-08-24 16:27:08,757 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:27:08,787 [1] INFO TurtleChallenge.Execute.Infrastructure.TurtleChallengeIoCConfigurator - Dependencies registered successfully.
+2017-08-24 16:27:08,837 [1] INFO TurtleChallenge.Execute.Program - Starting the game with GAME-SETTINGS.json and MOVES.json files.
+2017-08-24 16:27:08,988 [1] INFO TurtleChallenge.Execute.Program - Sequence 1: Success!
+2017-08-24 16:27:08,988 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------
+2017-08-24 16:27:08,988 [1] INFO TurtleChallenge.Execute.Program - Turtle challenge game exits.
+2017-08-24 16:27:08,988 [1] INFO TurtleChallenge.Execute.Program - ------------------------------------

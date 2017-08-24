@@ -1,0 +1,21 @@
+[{
+	"moves": 
+		[
+		 "move", "rotate", "rotate", "rotate", "move"
+		],
+	"name": "Sequence 1"
+}, 
+{
+	"moves": 
+	[
+	"move", "move", "move", "move", "move", "rotate"
+	],
+	"name": "Sequence 2"
+},
+{
+	"moves": 
+	[
+	"rotate", "rotate", "rotate", "rotate", "rotate"
+	],
+	"name": "Sequence 3"
+}]

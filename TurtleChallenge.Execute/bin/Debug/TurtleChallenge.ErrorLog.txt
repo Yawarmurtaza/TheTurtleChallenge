@@ -1,0 +1,34 @@
+2017-08-21 21:56:45,467 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 23:11:24,380 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 23:11:33,354 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 29
+2017-08-21 23:27:18,148 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-21 23:29:34,376 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-21 23:29:50,567 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TurtleChallenge.Business.GameManager.ProcessSequence(Sequence sequence, Turtle turtle, GameSettings gameSettings) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 81
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 61
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 32
+2017-08-23 23:09:11,252 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 31
+2017-08-24 13:26:41,025 [1] ERROR TurtleChallenge.Execute.Program - A fatel error occured during the execution of the game. Details System.InvalidOperationException: There is an error in XML document (12, 3). ---> System.InvalidOperationException: Instance validation error: 'north' is not a valid value for Direction.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read4_Direction(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read5_GameSettings(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderGameSettings.Read6_gameSettings()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at TurtleChallenge.DataAccess.XmlDataProvider.GetGameSettings(String filePath) in F:\TurtleChallenge\TurtleChallenge.DataAccess\XmlDataProvider.cs:line 31
+   at TurtleChallenge.Business.GameDataManager.GetGameSettings(String filePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameDataManager.cs:line 28
+   at TurtleChallenge.Business.GameManager.Start(String gameSettingsFilePath, String moveSequenceFilePath) in E:\Development\TurtleChallenge\TurtleChallenge.Business\GameManager.cs:line 32
+   at TurtleChallenge.Execute.Program.Main(String[] args) in E:\Development\TurtleChallenge\TurtleChallenge.Execute\Program.cs:line 33

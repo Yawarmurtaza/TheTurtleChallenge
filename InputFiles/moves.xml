@@ -1,0 +1,42 @@
+ <sequences>
+	<sequence  name="sequence 1 - success"> 
+		<action>rotate</action>
+		<action>rotate</action>
+		<action>rotate</action>
+		<action>move</action>
+		<action>move</action>		
+		<action>move</action>	
+		<action>rotate</action>
+		<action>rotate</action>
+		<action>rotate</action>	
+		<action>move</action>
+		<action>move</action>		
+		<action>move</action>			
+	</sequence>
+	<sequence name="sequence 2 - 1,2 mine hit"> 
+		<action>rotate</action> 
+		<action>rotate</action> 
+		<action>move</action>
+		<action>move</action>
+		<action>move</action>
+		<action>rotate</action>		
+		<action>move</action>	
+		<action>rotate</action>
+		<action>move</action>			
+	</sequence>
+	<sequence name="sequence 3 - living in the denger">
+		<action>rotate</action> 
+		<action>rotate</action> 
+		<action>move</action> 
+		<action>move</action>
+		<action>move</action>
+		<action>rotate</action> 
+		<action>move</action>
+		<action>move</action>		
+	</sequence>
+</sequences>
+
+	
+
+	
+	
